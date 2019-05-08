@@ -1,2 +1,2 @@
-define introduction
+define introduction(name)
 end
